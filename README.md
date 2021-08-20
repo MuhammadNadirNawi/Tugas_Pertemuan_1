@@ -1,4 +1,4 @@
 # Tugas_Pertemuan_1
-Nama : Muhammad Nadir Nawi
-NIM : 200209501044
-Kelas : PTIK C 2020
+Nama : Muhammad Nadir Nawi;
+NIM : 200209501044;
+Kelas : PTIK C 2020;
